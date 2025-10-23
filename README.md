@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👾 0xkhayrol
 
-<!--
-**0xkhayrol/0xkhayrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🔒 Cybersecurity Researcher | Red Teamer | Developer  
+> Automating the Art of Hacking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 💻 Passionate about **Offensive Security** & **Automation**
+- 🧩 Skilled in **Python**, **C++**, and **Linux Red Teaming**
+- ⚙️ Creator of custom tools for **Recon**, **Exploitation**, and **Persistence**
+- ☠️ Always exploring new ways to break — and secure — systems
+
+---
+
+### 🧰 Tech Stack
+`Python` `C++` `Bash` `Linux` `Pentesting` `Automation` `Networking`
+
+---
+
+### 📡 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-@DevidLuice-blue?logo=telegram&style=flat)](https://t.me/DevidLuice)
+[![GitHub](https://img.shields.io/badge/GitHub-0xkhayrol-black?logo=github&style=flat)](https://github.com/0xkhayrol)
+
+---
+
+### ⚡ Quote
+> “Hack the system before it hacks you.”
+
+---
